@@ -1,0 +1,14 @@
+{
+  "module": "nws",
+  "name": "NWS Alerts",
+  "version": "0.1.0",
+  "developer": "OpenAI Codex",
+  "description": "Input endpoint module for National Weather Service alerts.",
+  "input_type": "Input",
+  "minimum_ops_version": "0.0.0",
+  "requirements": [
+    "requests",
+    "pymysql",
+    "python-dotenv"
+  ]
+}
